@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopy", "FileCopy\FileCopy.csproj", "{4329E00D-31B6-4D68-B0D9-7E3120037D28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{6995882A-6115-4A72-8901-5BF769BBE70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4329E00D-31B6-4D68-B0D9-7E3120037D28}.Debug|x86.ActiveCfg = Debug|x86
+		{4329E00D-31B6-4D68-B0D9-7E3120037D28}.Debug|x86.Build.0 = Debug|x86
+		{4329E00D-31B6-4D68-B0D9-7E3120037D28}.Release|x86.ActiveCfg = Release|x86
+		{4329E00D-31B6-4D68-B0D9-7E3120037D28}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
